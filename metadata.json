@@ -1,0 +1,7 @@
+{
+  "name": "Ezan Vakti Pro",
+  "description": "Türkiye Diyanet uyumlu, çoklu şehir destekli modern ezan vakti uygulaması.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
